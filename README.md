@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=erdaltasar3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Erdal Taşar
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](Başarı, sadece düşündüğün değil, uğruna çalıştığın her andır.)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erdaltasar3&icon=0&color=0)](https://visitcount.itsvg.in)
